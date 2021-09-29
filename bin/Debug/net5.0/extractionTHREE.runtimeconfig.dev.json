@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\beskra\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\beskra\\.nuget\\packages"
+    ]
+  }
+}

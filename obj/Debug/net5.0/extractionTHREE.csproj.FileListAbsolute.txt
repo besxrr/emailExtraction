@@ -1,0 +1,16 @@
+C:\Training\extractionTHREE\extractionTHREE\obj\Debug\net5.0\extractionTHREE.csproj.AssemblyReference.cache
+C:\Training\extractionTHREE\extractionTHREE\obj\Debug\net5.0\extractionTHREE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\extractionTHREE\extractionTHREE\obj\Debug\net5.0\extractionTHREE.AssemblyInfoInputs.cache
+C:\Training\extractionTHREE\extractionTHREE\obj\Debug\net5.0\extractionTHREE.AssemblyInfo.cs
+C:\Training\extractionTHREE\extractionTHREE\obj\Debug\net5.0\extractionTHREE.csproj.CoreCompileInputs.cache
+C:\Training\extractionTHREE\extractionTHREE\bin\Debug\net5.0\extractionTHREE.exe
+C:\Training\extractionTHREE\extractionTHREE\bin\Debug\net5.0\extractionTHREE.deps.json
+C:\Training\extractionTHREE\extractionTHREE\bin\Debug\net5.0\extractionTHREE.runtimeconfig.json
+C:\Training\extractionTHREE\extractionTHREE\bin\Debug\net5.0\extractionTHREE.runtimeconfig.dev.json
+C:\Training\extractionTHREE\extractionTHREE\bin\Debug\net5.0\extractionTHREE.dll
+C:\Training\extractionTHREE\extractionTHREE\bin\Debug\net5.0\ref\extractionTHREE.dll
+C:\Training\extractionTHREE\extractionTHREE\bin\Debug\net5.0\extractionTHREE.pdb
+C:\Training\extractionTHREE\extractionTHREE\obj\Debug\net5.0\extractionTHREE.dll
+C:\Training\extractionTHREE\extractionTHREE\obj\Debug\net5.0\ref\extractionTHREE.dll
+C:\Training\extractionTHREE\extractionTHREE\obj\Debug\net5.0\extractionTHREE.pdb
+C:\Training\extractionTHREE\extractionTHREE\obj\Debug\net5.0\extractionTHREE.genruntimeconfig.cache
